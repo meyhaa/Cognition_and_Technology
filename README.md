@@ -1,12 +1,12 @@
-## Writing Samples
+# Writing Samples
 
-This repository contains papers and slide decks from  
+This repository contains a collection of papers and slide decks of different works.
 
-# Health Literacy Independent Research Project:
+## Health Literacy Independent Research Project:
 Addressing_Health_Literacy_Nutrition: Highlights the systemic issue of health literacy in the United States using nutrition as a case study.
 
 
-# Cyborgs Now and in the Future class:
+## Cyborgs Now and in the Future class:
 
 Cognitive_Artifacts: Specifies an idea I wrote for a cyborg artifact for the purpose of walking and navigating without vision.
 
