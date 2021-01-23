@@ -1,6 +1,7 @@
 # Writing Samples
 
-This repository contains a collection of papers and slide decks of different works. For more, check out posts on my [Medium Blog](https://meyhaabuvanesh.medium.com)!
+This repository contains a collection of papers and slide decks of different works. For more, check out posts on my
+<a href="https://meyhaabuvanesh.medium.com" target="_blank">Medium Blog</a>!
 
 ## Health Literacy Independent Research Project:
 Addressing_Health_Literacy_Nutrition: Highlights the systemic issue of health literacy in the United States using nutrition as a case study. This paper was published in the University of California, Readings about Writing student publication journal. 
